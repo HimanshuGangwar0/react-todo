@@ -24,6 +24,4 @@ npm install
 * [babel](https://babeljs.io/)
 
 ## Live Demo
-```bash
 https://himanshugangwar0.github.io/react-todo/.
-```
