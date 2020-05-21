@@ -5,7 +5,7 @@
 
 ```bash
 # clone repo
-git clone https://github.com/HimanshuGangwar0/react-todo.git
+git clone https://github.com/HimanshuGangwar0/react-todo.git react-todo
 
 # navigate to repo
 cd react-todo
